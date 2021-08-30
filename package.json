@@ -12,10 +12,10 @@
 		"react-scripts": "4.0.3",
 		"web-vitals": "^1.0.1"
 	},
-	"homepage": "http://arif1205.github.io/simpleCart",
+	"homepage": "https://arif1205.github.io/simpleCart/",
 	"scripts": {
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
+		"deploy": "gh-pages -d main build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
